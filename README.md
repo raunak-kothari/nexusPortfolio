@@ -27,7 +27,7 @@ Crafted by Raunak Kothari, this Spring Boot MVC project showcases Nexus Software
     - Run the application.
 
 4. **Access the Portfolio:**
-    - Visit `http://localhost:8080` in your web browser.
+    - Visit `http://localhost:9000` in your web browser.
 
 ## Contact Information
 For inquiries and additional details, please feel free to reach out to Raunak Kothari at:
