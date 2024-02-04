@@ -30,7 +30,10 @@ Crafted by Raunak Kothari, this Spring Boot MVC project showcases Nexus Software
     - Visit `http://localhost:8080` in your web browser.
 
 ## Contact Information
-For inquiries and additional details, please reach out to Raunak Kothari.
+For inquiries and additional details, please feel free to reach out to Raunak Kothari at:
+- **Email:** raunakkothari429@gmail.com
+- **LinkedIn:** [www.linkedin.com/in/itzrk](https://www.linkedin.com/in/itzrk)
+- **Explore more of Raunak's GitHub projects:** [Raunak's GitHub](https://github.com/raunak-kothari)
 
 ## Contributions
 Contributions are encouraged! Submit pull requests for enhancements or open issues for suggestions.
